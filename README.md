@@ -1,8 +1,2 @@
 # Flask_Tutorial
-tutorial for building a light web server using python
-
-[Project Code :  **#Dansite**]
-- TBU1) web UI design using Sketch.
-- TBU2) practice and playing with HTML, CSS, Jquery to "CREATE" hersheythings.
-
-cf. markdown lang review
+tutorial for building a light website using python
